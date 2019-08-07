@@ -8,6 +8,7 @@ main{
     margin:auto;
     border:solid #cccccc;
     padding:30px;
+    max-width: 960px;
 
 }
 header{
