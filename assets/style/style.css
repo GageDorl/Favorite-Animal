@@ -1,0 +1,32 @@
+body{
+    text-align:center;
+    font-family:'Arial', sans-serif;
+    margin:0;
+}
+main{
+    position:relative;
+    margin:auto;
+    border:solid #cccccc;
+
+}
+header{
+    background:grey;
+    color:white;
+    font-size:40;
+    position:relative;
+    top:0;
+    left:0;
+    width:100vw;
+    
+}
+img{
+    border-radius:20px;
+}
+footer{
+    position:fixed;
+    bottom:0;
+    left:0;
+    width:100vw;
+    background:lightgrey;
+    color:grey;
+}
