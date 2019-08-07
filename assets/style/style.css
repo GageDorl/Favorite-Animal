@@ -7,6 +7,7 @@ main{
     position:relative;
     margin:auto;
     border:solid #cccccc;
+    padding:30px;
 
 }
 header{
@@ -29,4 +30,9 @@ footer{
     width:100vw;
     background:lightgrey;
     color:grey;
+}
+#clearfix{
+    content:"";
+    display:block;
+    clear:both;
 }
